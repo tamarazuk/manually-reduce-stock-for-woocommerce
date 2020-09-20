@@ -1,0 +1,14 @@
+{
+  "name": "manually-reduce-stock-for-woocommerce",
+  "version": "1.0.0",
+  "description": "This plugin adds a \"Reduce Stock\" button to an order screen to allow store owners to manually reduce stock for any items that haven't had stock reduced already.",
+  "author": "Tamara Zuk",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-wp-pot": "^2.4.3"
+  }
+}
