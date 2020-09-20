@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Manually Reduce Stock for WooCommerce
- * Plugin URI:        https://tamarazuk.com
+ * Plugin URI:        https://github.com/tamarazuk/manually-reduce-stock-for-woocommerce
  * Description:       This plugin adds a "Reduce Stock" button to an order screen to allow store owners to manually reduce stock for any items that haven't had stock reduced already.
  * Version:           1.0.0
  * Author:            Tamara Zuk
