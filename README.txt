@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Manually Reduce Stock for WooCommerce ===
 Contributors: tamarazuk
 Donate link: https://paypal.me/tamarazuk
 Tags: reduce stock, woocommerce
